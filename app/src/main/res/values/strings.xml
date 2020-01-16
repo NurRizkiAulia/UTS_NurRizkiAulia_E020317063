@@ -1,0 +1,11 @@
+<resources>
+    <string name="agama">UTS_NurRizkiAulia</string>
+    <string-array name="nama_agama">
+        <item>Islam</item>
+        <item>Kristen</item>
+        <item>Hindu</item>
+        <item>Buddha</item>
+        <item>Khonghucu</item>
+
+    </string-array>
+</resources>
